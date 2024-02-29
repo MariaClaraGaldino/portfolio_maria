@@ -1,6 +1,6 @@
 <h1>Portfolio Maria Clara Galdino</h1>
 
-<p> Projeto desenvolvido no curso da Alura para colocar em prática o que aprendemos no curso de HTML e CSS.</p
+<p> Projeto desenvolvido para colocar em prática o que aprendemos no curso de HTML e CSS da Alura.</p
 
 <p> 👩‍💻 Tecnologias utilizadas</p>  
 
