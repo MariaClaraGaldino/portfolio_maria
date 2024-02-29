@@ -149,4 +149,17 @@ border-radius:500px;
         font-size: xx-large;
     }
 
-}
+    .apresentacao__links__navegacao{
+        font-size: medium;
+    }
+
+    .apresentacao__links__navegacao img{
+        width: 22px;
+        height: 22px;
+    }
+
+    .apresentacao__imagem{
+        width: 50%;
+        height: 50%;
+    }
+};
